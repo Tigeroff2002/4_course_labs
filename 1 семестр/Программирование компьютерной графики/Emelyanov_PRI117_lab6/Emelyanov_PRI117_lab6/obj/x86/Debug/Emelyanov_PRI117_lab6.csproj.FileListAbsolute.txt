@@ -1,0 +1,11 @@
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\Emelyanov_PRI117_lab6\Emelyanov_PRI117_lab6\bin\x86\Debug\Emelyanov_PRI117_lab6.exe.config
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\Emelyanov_PRI117_lab6\Emelyanov_PRI117_lab6\bin\x86\Debug\Emelyanov_PRI117_lab6.exe
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\Emelyanov_PRI117_lab6\Emelyanov_PRI117_lab6\bin\x86\Debug\Emelyanov_PRI117_lab6.pdb
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\Emelyanov_PRI117_lab6\Emelyanov_PRI117_lab6\obj\x86\Debug\Emelyanov_PRI117_lab6.csprojAssemblyReference.cache
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\Emelyanov_PRI117_lab6\Emelyanov_PRI117_lab6\obj\x86\Debug\Emelyanov_PRI117_lab6.Form1.resources
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\Emelyanov_PRI117_lab6\Emelyanov_PRI117_lab6\obj\x86\Debug\Emelyanov_PRI117_lab6.Properties.Resources.resources
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\Emelyanov_PRI117_lab6\Emelyanov_PRI117_lab6\obj\x86\Debug\Emelyanov_PRI117_lab6.csproj.GenerateResource.cache
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\Emelyanov_PRI117_lab6\Emelyanov_PRI117_lab6\obj\x86\Debug\Emelyanov_PRI117_lab6.csproj.CoreCompileInputs.cache
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\Emelyanov_PRI117_lab6\Emelyanov_PRI117_lab6\obj\x86\Debug\Emelyanov_PRI117_lab6.csproj.CopyComplete
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\Emelyanov_PRI117_lab6\Emelyanov_PRI117_lab6\obj\x86\Debug\Emelyanov_PRI117_lab6.exe
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\Emelyanov_PRI117_lab6\Emelyanov_PRI117_lab6\obj\x86\Debug\Emelyanov_PRI117_lab6.pdb

@@ -1,0 +1,13 @@
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\EmelyanovDmitry_PRI117_lab1\EmelyanovDmitry_PRI117_lab1\bin\Debug\netcoreapp3.1\EmelyanovDmitry_PRI117_lab1.exe
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\EmelyanovDmitry_PRI117_lab1\EmelyanovDmitry_PRI117_lab1\bin\Debug\netcoreapp3.1\EmelyanovDmitry_PRI117_lab1.deps.json
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\EmelyanovDmitry_PRI117_lab1\EmelyanovDmitry_PRI117_lab1\bin\Debug\netcoreapp3.1\EmelyanovDmitry_PRI117_lab1.runtimeconfig.json
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\EmelyanovDmitry_PRI117_lab1\EmelyanovDmitry_PRI117_lab1\bin\Debug\netcoreapp3.1\EmelyanovDmitry_PRI117_lab1.runtimeconfig.dev.json
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\EmelyanovDmitry_PRI117_lab1\EmelyanovDmitry_PRI117_lab1\bin\Debug\netcoreapp3.1\EmelyanovDmitry_PRI117_lab1.dll
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\EmelyanovDmitry_PRI117_lab1\EmelyanovDmitry_PRI117_lab1\bin\Debug\netcoreapp3.1\EmelyanovDmitry_PRI117_lab1.pdb
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\EmelyanovDmitry_PRI117_lab1\EmelyanovDmitry_PRI117_lab1\obj\Debug\netcoreapp3.1\EmelyanovDmitry_PRI117_lab1.AssemblyInfoInputs.cache
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\EmelyanovDmitry_PRI117_lab1\EmelyanovDmitry_PRI117_lab1\obj\Debug\netcoreapp3.1\EmelyanovDmitry_PRI117_lab1.AssemblyInfo.cs
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\EmelyanovDmitry_PRI117_lab1\EmelyanovDmitry_PRI117_lab1\obj\Debug\netcoreapp3.1\EmelyanovDmitry_PRI117_lab1.csproj.CoreCompileInputs.cache
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\EmelyanovDmitry_PRI117_lab1\EmelyanovDmitry_PRI117_lab1\obj\Debug\netcoreapp3.1\EmelyanovDmitry_PRI117_lab1.dll
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\EmelyanovDmitry_PRI117_lab1\EmelyanovDmitry_PRI117_lab1\obj\Debug\netcoreapp3.1\EmelyanovDmitry_PRI117_lab1.pdb
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\EmelyanovDmitry_PRI117_lab1\EmelyanovDmitry_PRI117_lab1\obj\Debug\netcoreapp3.1\EmelyanovDmitry_PRI117_lab1.genruntimeconfig.cache
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\EmelyanovDmitry_PRI117_lab1\EmelyanovDmitry_PRI117_lab1\obj\Debug\netcoreapp3.1\EmelyanovDmitry_PRI117_lab1.csprojAssemblyReference.cache

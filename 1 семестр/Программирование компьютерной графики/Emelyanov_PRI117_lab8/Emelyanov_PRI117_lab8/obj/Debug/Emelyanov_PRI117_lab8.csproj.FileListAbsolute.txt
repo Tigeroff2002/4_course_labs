@@ -1,0 +1,14 @@
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\Emelyanov_PRI117_lab8\Emelyanov_PRI117_lab8\bin\Debug\Dmitriev_pri-117_lab8.exe.config
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\Emelyanov_PRI117_lab8\Emelyanov_PRI117_lab8\bin\Debug\Dmitriev_pri-117_lab8.exe
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\Emelyanov_PRI117_lab8\Emelyanov_PRI117_lab8\bin\Debug\Dmitriev_pri-117_lab8.pdb
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\Emelyanov_PRI117_lab8\Emelyanov_PRI117_lab8\bin\Debug\Tao.FreeGlut.xml
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\Emelyanov_PRI117_lab8\Emelyanov_PRI117_lab8\bin\Debug\Tao.OpenGl.xml
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\Emelyanov_PRI117_lab8\Emelyanov_PRI117_lab8\bin\Debug\Tao.Platform.Windows.xml
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\Emelyanov_PRI117_lab8\Emelyanov_PRI117_lab8\obj\Debug\Emelyanov_PRI117_lab8.csprojAssemblyReference.cache
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\Emelyanov_PRI117_lab8\Emelyanov_PRI117_lab8\obj\Debug\Emelyanov_PRI117_lab8.Form1.resources
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\Emelyanov_PRI117_lab8\Emelyanov_PRI117_lab8\obj\Debug\Dmitriev_pri_117_lab8.Properties.Resources.resources
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\Emelyanov_PRI117_lab8\Emelyanov_PRI117_lab8\obj\Debug\Emelyanov_PRI117_lab8.csproj.GenerateResource.cache
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\Emelyanov_PRI117_lab8\Emelyanov_PRI117_lab8\obj\Debug\Emelyanov_PRI117_lab8.csproj.CoreCompileInputs.cache
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\Emelyanov_PRI117_lab8\Emelyanov_PRI117_lab8\obj\Debug\Emelyanov_PRI117_lab8.csproj.CopyComplete
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\Emelyanov_PRI117_lab8\Emelyanov_PRI117_lab8\obj\Debug\Dmitriev_pri-117_lab8.exe
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\Emelyanov_PRI117_lab8\Emelyanov_PRI117_lab8\obj\Debug\Dmitriev_pri-117_lab8.pdb

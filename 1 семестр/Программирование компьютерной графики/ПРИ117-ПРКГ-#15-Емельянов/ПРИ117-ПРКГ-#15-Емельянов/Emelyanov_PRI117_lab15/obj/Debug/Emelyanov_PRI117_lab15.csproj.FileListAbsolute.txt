@@ -1,0 +1,15 @@
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\ПРИ117-ПРКГ-#15-Емельянов\ПРИ117-ПРКГ-#15-Емельянов\Emelyanov_PRI117_lab15\bin\Debug\Emelyanov_PRI117_lab15.exe.config
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\ПРИ117-ПРКГ-#15-Емельянов\ПРИ117-ПРКГ-#15-Емельянов\Emelyanov_PRI117_lab15\bin\Debug\Emelyanov_PRI117_lab15.exe
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\ПРИ117-ПРКГ-#15-Емельянов\ПРИ117-ПРКГ-#15-Емельянов\Emelyanov_PRI117_lab15\bin\Debug\Emelyanov_PRI117_lab15.pdb
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\ПРИ117-ПРКГ-#15-Емельянов\ПРИ117-ПРКГ-#15-Емельянов\Emelyanov_PRI117_lab15\bin\Debug\Tao.DevIl.xml
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\ПРИ117-ПРКГ-#15-Емельянов\ПРИ117-ПРКГ-#15-Емельянов\Emelyanov_PRI117_lab15\bin\Debug\Tao.FreeGlut.xml
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\ПРИ117-ПРКГ-#15-Емельянов\ПРИ117-ПРКГ-#15-Емельянов\Emelyanov_PRI117_lab15\bin\Debug\Tao.OpenGl.xml
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\ПРИ117-ПРКГ-#15-Емельянов\ПРИ117-ПРКГ-#15-Емельянов\Emelyanov_PRI117_lab15\bin\Debug\Tao.Platform.Windows.xml
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\ПРИ117-ПРКГ-#15-Емельянов\ПРИ117-ПРКГ-#15-Емельянов\Emelyanov_PRI117_lab15\obj\Debug\Emelyanov_PRI117_lab15.csprojAssemblyReference.cache
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\ПРИ117-ПРКГ-#15-Емельянов\ПРИ117-ПРКГ-#15-Емельянов\Emelyanov_PRI117_lab15\obj\Debug\Emelyanov_PRI117_lab15.Form1.resources
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\ПРИ117-ПРКГ-#15-Емельянов\ПРИ117-ПРКГ-#15-Емельянов\Emelyanov_PRI117_lab15\obj\Debug\Emelyanov_PRI117_lab15.Properties.Resources.resources
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\ПРИ117-ПРКГ-#15-Емельянов\ПРИ117-ПРКГ-#15-Емельянов\Emelyanov_PRI117_lab15\obj\Debug\Emelyanov_PRI117_lab15.csproj.GenerateResource.cache
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\ПРИ117-ПРКГ-#15-Емельянов\ПРИ117-ПРКГ-#15-Емельянов\Emelyanov_PRI117_lab15\obj\Debug\Emelyanov_PRI117_lab15.csproj.CoreCompileInputs.cache
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\ПРИ117-ПРКГ-#15-Емельянов\ПРИ117-ПРКГ-#15-Емельянов\Emelyanov_PRI117_lab15\obj\Debug\Emelyanov_PRI117_lab15.csproj.CopyComplete
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\ПРИ117-ПРКГ-#15-Емельянов\ПРИ117-ПРКГ-#15-Емельянов\Emelyanov_PRI117_lab15\obj\Debug\Emelyanov_PRI117_lab15.exe
+D:\University\4 курс\1 семестр\Программирование компьютерной графики\ПРИ117-ПРКГ-#15-Емельянов\ПРИ117-ПРКГ-#15-Емельянов\Emelyanov_PRI117_lab15\obj\Debug\Emelyanov_PRI117_lab15.pdb
